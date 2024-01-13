@@ -2,13 +2,13 @@
   "name": "vinita-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Vinita-jat.github.io",
+  "homepage": "http://vinitajat87.github.io/portfolio_repo",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
