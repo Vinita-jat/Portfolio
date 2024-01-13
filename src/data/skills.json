@@ -1,0 +1,39 @@
+[
+    {
+      "title": "C#",
+      "imageSrc": "skills/c-sharp.png"
+    },
+    {
+      "title": "DotNet",
+      "imageSrc": "skills/dotnet.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "Css",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/java-script.png"
+    },
+    {
+      "title": "WebAPI's",
+      "imageSrc": "skills/api.png"
+    },
+    {
+      "title": "Node.js",
+      "imageSrc": "skills/node.png"
+    }
+  ]
+  

@@ -1,0 +1,35 @@
+[
+    {
+      "role": "Software Developer",
+      "organisation": "Imriel Technology",
+      "startDate": "Oct, 2022",
+      "endDate": "Apr, 2023",
+      "experiences": ["Application Tracking system",
+          "Azure storage blob",
+          "API authentication and access management using JWT"],
+      "imageSrc": "history/imriel.png"
+    },
+    {
+      "role": "Software Engineer Trainee",
+      "organisation": "First-Insight",
+      "startDate": "Oct, 2021",
+      "endDate": "Oct, 2022",
+      "experiences": ["Worked on .NET5 and .NET6 version Application",
+      "Web API's , User's filters, and MVC ",
+      "Migrattionof the application"],
+      "imageSrc": "history/firstInsight.png"
+    },
+    {
+      "role": "Web application trainee",
+      "organisation": "Bridge Group Solution",
+      "startDate": "Oct, 2020",
+      "endDate": "Mar, 2021",
+      "experiences": [
+        "Developed web application ",
+        "Created user registration form, live pop"
+      ],
+      "imageSrc": "history/bridge.png"
+    }
+  ]
+  
+    

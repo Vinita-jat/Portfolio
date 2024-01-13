@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Shoping",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Node", "Bootstrap"],
+      "source": "https://github.com/Vinita-jat/shoping.git"
+    },
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to l build my Portfolio Profile.",
+      "skills": ["React", "Express", "Vite", "Master-CSS"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "source": "https://www.github.com"
+    }
+  ]
